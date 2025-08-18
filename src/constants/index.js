@@ -53,7 +53,7 @@ subDescription: [
   "Integrated Firebase Authentication for secure user login and session management.",
   "Enabled file selection and secure storage of encoded media in device memory (Downloads folder).",
 ],
-    href: "",
+    href: "https://github.com/RohanDaivajna/Obscura",
     logo: "",
     image: "/assets/projects/obscura.png",
     tags: [
