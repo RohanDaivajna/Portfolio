@@ -11,7 +11,7 @@ export const myProjects = [
   "Implemented filtering, search, and date-based sorting to enhance usability and transaction tracking.",
   "Designed a responsive UI using Tailwind CSS and React.js for smooth user interaction across devices."
     ],
-    href: "",
+    href: "https://github.com/RohanDaivajna/Balancr_frontend",
     logo: "",
     image: "/assets/projects/Balancr.png",
     tags: [
